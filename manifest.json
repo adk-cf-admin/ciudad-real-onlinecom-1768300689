@@ -1,0 +1,19 @@
+{
+  "name": "Ciudad Real Casino",
+  "short_name": "Ciudad Real Casino",
+  "theme_color": "",
+  "background_color": "#88813B",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1768291191-favicon.ico",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}

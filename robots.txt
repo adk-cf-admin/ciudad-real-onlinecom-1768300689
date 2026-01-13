@@ -1,0 +1,5 @@
+User-agent: * 
+Allow: / 
+Disallow: /casino/
+Host: https://ciudad-real-online.com/
+Sitemap: https://ciudad-real-online.com/sitemap.xml
